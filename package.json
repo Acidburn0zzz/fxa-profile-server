@@ -27,7 +27,7 @@
     "inert": "4.0.2",
     "joi": "9.0.4",
     "mozlog": "2.0.5",
-    "mysql": "2.11.1",
+    "mysql": "2.14.0",
     "mysql-patcher": "0.7.0",
     "newrelic": "2.1.0",
     "poolee": "1.0.0",
