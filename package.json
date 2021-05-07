@@ -39,7 +39,7 @@
     "commander": "2.9.0",
     "eslint-config-fxa": "2.1.0",
     "fxa-conventional-changelog": "1.1.0",
-    "grunt": "1.0.1",
+    "grunt": "1.3.0",
     "grunt-bump": "0.8.0",
     "grunt-conventional-changelog": "5.0.0",
     "grunt-copyright": "0.3.0",
